@@ -31,7 +31,7 @@ This repository contains my hands-on practice and learning notebooks for **Matpl
 * Customizing fonts and styles
 * Adding and styling grids
 
-![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/ab9ced0be2ddd9b3740bf3bbd1736cbcace100b1/Image/2.png)
+![image alt](https://github.com/ashishkumardata/Matplotlip-Tutorial/blob/eb1a9f15209ee31873bf932e6667b54f21100dc7/Image/2.png)
 
 ---
 
